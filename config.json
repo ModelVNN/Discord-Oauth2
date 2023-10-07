@@ -1,0 +1,6 @@
+{
+    "port": "8080",
+    "clientId": "client id",
+    "clientSecret": "client secret",
+    "mongoUrl": "mongoDB url"
+}
